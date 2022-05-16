@@ -1,2 +1,2 @@
-# How-to-Coding
+# Coding
 Learn How to code
